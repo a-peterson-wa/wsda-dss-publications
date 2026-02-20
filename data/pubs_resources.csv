@@ -8,6 +8,7 @@ Asparagus,EMPTY,1,
 assistance,WACD,1,"Conservation Districts provide local technical and financial assistance for soil health, water quality, and conservation practices. They are non-regulatory bodies, working directly with farmers and landowners to implement sustainable management strategies tailored to your specific needs and conditions. Conservation Districts can be a resource for learning about nutrient and irrigation water management practices and resources in your area."
 assistance,NRCS,2,"The Natural Resources Conservation Service offers technical expertise, conservation planning, and cost-share programs to help agricultural producers improve soil health and productivity. NRCS provides science-based solutions and financial assistance for implementing conservation practices on working lands."
 assistance,CCA,3,"Certified Crop Advisers (CCAs) are professionals qualified to provide expert guidance on nutrient management and crop production practices. CCAs can help develop a nutrient management plan tailored to your operation, interpret soil test results, and recommend appropriate fertilizer rates and timing based on your specific crops and yield goals."
+assistance,WSUEXT,4,(NOTE: Finalize language later)
 Barley,CIS 954,1,Fertilizer guide for winter barley based on research from the University of Idaho and Washington State University.
 Barley,CIS 920,2,Fertilizer guide for spring barley based on research from the University of Idaho and Washington State University.
 Blueberry,EM 8918,1,A nutrient management guide written by Oregon State University for northern highbush blueberries grown in western Oregon.
@@ -45,6 +46,7 @@ link,DIRTDATA,1,
 link,DSSAPP,1,
 link,WaCSE,1,
 manure,PNW533,1,Guidelines for using manure and organic amendments effectively for crop use while protecting water quality. Includes resources to calculate the nitrogen contribution form manure and other organic sources.
+manure,EM 8954-E,2,An in depth-guide for calculating the availability of nitrogen applied from manure. This can be used to determine how much manure you should add to meet your crop's nitrogen needs and account for the phosphorus and potassium supplied by manure.
 Mint,EM 9018-E,1,A fertilizer guide from Oregon State University focused on peppermint grown in western Oregon.
 Nectarine/Peach,EM119E,1,A crop guide for tree fruit commonly grown in Central Washington orchards.
 Pasture,PNW 614,1,"A comprehensive PNW-guide for pasture management in the region. This 214 page guide covers a wide range of topics relevant to regional pasture management, including nutrient management."
